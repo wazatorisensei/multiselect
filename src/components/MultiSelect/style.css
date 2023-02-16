@@ -1,0 +1,36 @@
+.typography-h1 {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+  color: cornflowerblue;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.select {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.checkboxes {
+  color: 'hsl(0, 0%, 40%)';
+  display: 'inline-block';
+  font-Size: 12;
+  font-Style: 'italic';
+  margin-Top: '1em';
+}
+
+.check {
+  border: 1px solid #000;
+  border-radius: 10px;
+  margin: 10px;
+  padding-right: 10px;
+}
+
+.check-internal {
+  margin: 10px;
+}
